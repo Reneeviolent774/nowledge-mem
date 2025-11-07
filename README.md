@@ -11,6 +11,7 @@
 [![Get Mem](https://img.shields.io/badge/Get-Mem-00A3A3?style=flat&logo=rocket&logoColor=white)](https://mem.nowledge.co/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat&logo=discord&logoColor=white)](https://nowled.ge/discord)
 [![Docs](https://img.shields.io/badge/Docs-Read-orange?style=flat&logo=readthedocs&logoColor=white)](https://nowled.ge/mem-docs)
+[![MCP Badge](https://lobehub.com/badge/mcp/nowledge-mem)](https://lobehub.com/mcp/nowledge-mem)
 
 ---
 
